@@ -124,5 +124,5 @@ Relaciona vendedores terceiros aos produtos que eles disponibilizam.
 
 Caso tenha dúvidas ou sugestões sobre este projeto, entre em contato:
 
-- **Email:** [seu-email@exemplo.com](mailto:andreicardozo300@gmail.com)
-- **GitHub:** [seu-usuario](https://github.com/AndreiCardozo)
+- **Email:** [andreicardozo300@gmail.com]
+- **GitHub:** [https://github.com/AndreiCardozo]
